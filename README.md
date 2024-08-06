@@ -16,10 +16,12 @@ If you need to adjust your cart, simply click the "Remove" button next to any it
 To install an APK from GitHub using Visual Studio, first download the APK file from the GitHub repository's releases or assets section. Then, open Visual Studio and load your Android project. Connect your Android device via USB or start an emulator. In Visual Studio, go to **Build** > **Deploy Solution**, which will deploy the APK to your connected device or emulator. Once the deployment is complete, you can find and launch the app on your device or emulator to verify the installation.
 
 # Screenshots
-![5873037649370006219](https://github.com/user-attachments/assets/56f80994-6b77-4fee-af2b-b39c68b1b907)
-![5873037649370006218](https://github.com/user-attachments/assets/b864f244-b151-4075-8a1d-df5ef0eba7b1)
-![5873037649370006217](https://github.com/user-attachments/assets/125f8143-1085-4a5d-8a29-2df85007738a)
-![5873037649370006216](https://github.com/user-attachments/assets/f8b2d664-a040-43a2-8bcd-19bddeb8a63c)
-![5873037649370006215](https://github.com/user-attachments/assets/83322730-1926-4e7b-b019-34db2c853935)
-![5873037649370006213](https://github.com/user-attachments/assets/4a44968e-ba96-40b2-b56b-4b78fb70f7bc)
-![5873037649370006214](https://github.com/user-attachments/assets/c5e3ce65-781d-4305-b8f6-a452f8b4c853)
+
+![5873037649370006219](https://github.com/user-attachments/assets/d91ec0c6-aa57-46c2-9c0e-acd3ebdc2f3a)
+![5873037649370006218](https://github.com/user-attachments/assets/82cd7082-76e3-42cb-9e36-0b7ffe6eb388)
+![5873037649370006217](https://github.com/user-attachments/assets/59321930-8d3d-4225-b23f-6229f8d92edf)
+![5873037649370006216](https://github.com/user-attachments/assets/b2be944d-bf94-49d4-9aa4-86f51b4c016e)
+![5873037649370006215](https://github.com/user-attachments/assets/ea0036e5-6fad-4cfb-a9c7-173997fbc1b4)
+![5873037649370006213](https://github.com/user-attachments/assets/b4e500b3-d33b-4293-8d87-892b45e6028f)
+![5873037649370006214](https://github.com/user-attachments/assets/b147b5f5-5907-46b3-b604-18c541b6af38)
+
